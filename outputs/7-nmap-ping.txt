@@ -1,0 +1,7 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-11-15 00:44 -0800
+Nmap scan report for 192.168.64.1
+Host is up (0.00059s latency).
+MAC Address: C6:35:D9:C7:3F:64 (Unknown)
+Nmap scan report for 192.168.64.5
+Host is up.
+Nmap done: 256 IP addresses (2 hosts up) scanned in 2.91 seconds
